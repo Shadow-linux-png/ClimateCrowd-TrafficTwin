@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+matplotlib
+plotly
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv

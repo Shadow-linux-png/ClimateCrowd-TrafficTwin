@@ -1,0 +1,9 @@
+{
+  "area_name": "SampleJunction",
+  "num_vehicles": 100,
+  "num_pedestrians": 80,
+  "steps": 300,
+  "weather": "clear",
+  "crowd_surge": false,
+  "emergency_prob": 0.01
+}
